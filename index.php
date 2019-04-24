@@ -27,6 +27,9 @@ $resultat = getAllAnnonces();
 </body>
 </html>
 
+<script>
+    $('ul').html("yoyoyo");
+</script>
 
 <?php 
 
